@@ -1,6 +1,6 @@
 {
-    "name": "ocdladefense/project",
-    "description": "",
+    "name": "ocdladefense/appserver-file-sharing",
+    "description": "A file sharing module.",
     "type": "wordpress-theme",
     "license": "MIT",
     "authors": [],
